@@ -1,0 +1,11 @@
+{
+  "name": "gre-full-length-practice",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Static full-length GRE practice simulator based on the supplied exam PDF",
+  "scripts": {
+    "dev": "node server.cjs",
+    "build": "node build.cjs",
+    "test": "node tests.cjs"
+  }
+}
